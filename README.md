@@ -15,7 +15,7 @@ API RESTful pour un système de blog utilisant Node.js, Express et SQLite.
 
 1. Cloner le dépôt :
 bash
-git clone https://github.com/VOTRE_NOM/blog-api.git
+git clone https://github.com/blog-api.git
 cd blog-api
 
 
