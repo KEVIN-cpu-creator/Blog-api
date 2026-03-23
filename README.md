@@ -63,8 +63,3 @@ blog-api/
 
 
 Auteur:NGOUO TANE KEVIN AUSTIN
-
-
-
-*Vous voulez que je vous aide à adapter le contenu selon ce que vous avez déjà dans votre projet ?*
-```
